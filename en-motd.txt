@@ -1,0 +1,8 @@
+[ANNOUNCEMENT][HEADER]V1 Nebula Injector[BODY]Version 1.0 has been released for testing.[PRIORITY]5[LINK]https://enoughindustries.com[VERSION]1.0.0.0
+[ANNOUNCEMENT][HEADER]WELCOME[BODY]Thanks for using the new Injector! <3[PRIORITY]5[LINK]https://enoughindustries.com[VERSION]1.0.0.0
+[ANNOUNCEMENT][HEADER]UPDATE SOON![BODY]New NebulaInjector update will be available soon.[PRIORITY]6[LINK]https://enoughindustries.com[VERSION]1.0.0.0
+[ANNOUNCEMENT][HEADER]IMPORTANT UPDATE[BODY]UPDATE NEBULA INJECTOR - Download from the forum! [PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.4.0.0/NebulaInjector.exe[VERSION]1.2.0.0
+[ANNOUNCEMENT][HEADER]Tutorial[BODY]Thanks @Jetji for the new tutorial! <3[PRIORITY]2[LINK]https://enoughindustries.com/[VERSION]1.3.0.0
+[ANNOUNCEMENT][HEADER]Testing[BODY]Thanks @Surgepn for testing the application! <3 [PRIORITY]2[LINK]https://enoughindustries.com/[VERSION]1.3.0.0
+[ANNOUNCEMENT][HEADER]Update 1.4.0.0[BODY]Download the newest version of the injector.[PRIORITY]7[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.4.0.0/NebulaInjector.exe[VERSION]1.3.0.0
+[ANNOUNCEMENT][HEADER]Update 1.4.0.0[BODY]Download the newest version of the injector.[PRIORITY]8[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.4.0.0/NebulaInjector.exe[VERSION]1.3.0.5
