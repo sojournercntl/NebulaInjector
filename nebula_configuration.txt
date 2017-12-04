@@ -8,3 +8,4 @@
 [CONFIGURL][HELPLINK]https://raw.githubusercontent.com/sojournercntl/NebulaInjector/Configuration/en-helplink.txt[/]
 [CONFIGURL][NEBULAVERSION]https://raw.githubusercontent.com/sojournercntl/NebulaInjector/Configuration/en-nebulaversion.txt[/]
 [CONFIGURL][ACCESSENGINE]http://www.scntl.tk/Auth/Nebula/en-access.php[/]
+[CONFIGURL][NEBULASUPPORT]https://raw.githubusercontent.com/sojournercntl/NebulaInjector/Configuration/en-nebulaupdate.txt[/]
