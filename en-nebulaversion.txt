@@ -1,1 +1,1 @@
-[CURRENTVERSION][VERSION]1.5.0.0[DOWNLOAD]https://github.com/sojournercntl/NebulaInjector/releases/download/1.5.0.0/NebulaInjector.exe
+[CURRENTVERSION][VERSION]1.6.0.0[DOWNLOAD]https://github.com/sojournercntl/NebulaInjector/releases/download/1.6.0.0/NebulaInjector.exe
