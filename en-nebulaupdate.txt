@@ -1,0 +1,1 @@
+[VERSION][VERSIONNUMBER]1.5.0.1[DOWNLOAD]https://github.com/sojournercntl/NebulaInjector/releases/download/1.5.0.0/NebulaInjector.exe[/]
