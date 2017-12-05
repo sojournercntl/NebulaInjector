@@ -12,4 +12,4 @@
 [CONFIGURL][CONTRIBUTORS]https://raw.githubusercontent.com/sojournercntl/NebulaInjector/Configuration/en-contributors.txt[/]
 [CONFIGURL][STARTUP]https://raw.githubusercontent.com/sojournercntl/NebulaInjector/Configuration/en-startup.txt[/]
 [CONFIGURL][PAYPAL]https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3HGSEC73JKEGS[/]
-[CONFIGURL][UPDATEBATCH]https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3HGSEC73JKEGS[/]
+[CONFIGURL][UPDATEBATCH]https://raw.githubusercontent.com/sojournercntl/NebulaInjector/Configuration/nebula_update.bat[/]
