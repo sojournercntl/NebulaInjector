@@ -1,6 +1,7 @@
 [ANNOUNCEMENT][HEADER]Host migration[BODY]Enough industries is currently migrating to a new host.[PRIORITY]2[LINK]https://enoughindustries.com/index.php?threads/hosting-migration.71/[VERSION]1.5.0.0
 [ANNOUNCEMENT][HEADER]BUG:[BODY]If injector closes without injecting click here![PRIORITY]6[LINK]https://enoughindustries.com/index.php?threads/nebulainjector-bug-closing-without-full-injection.81/[VERSION]1.5.0.0
-[ANNOUNCEMENT][HEADER]UPDATE 1.7[BODY]Performance and automatic updater[PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.7.0.0/NebulaInjector.exe[VERSION]1.5.0.0
-[ANNOUNCEMENT][HEADER]UPDATE 1.7[BODY]Performance and automatic updater[PRIORITY]6[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.7.0.0/NebulaInjector.exe[VERSION]1.6.0.0
+[ANNOUNCEMENT][HEADER]UPDATE 1.8[BODY]Download the newest version of NebulaInjector today![PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.8.0.0/NebulaInjector.exe[VERSION]1.5.0.0
+[ANNOUNCEMENT][HEADER]UPDATE 1.8[BODY]Download the newest version of NebulaInjector today![PRIORITY]6[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.8.0.0/NebulaInjector.exe[VERSION]1.6.0.0
 [ANNOUNCEMENT][HEADER]Contributions[BODY]Star the repository on Github <3[PRIORITY]3[LINK]https://github.com/sojournercntl/NebulaInjector[VERSION]1.7.0.0
 [ANNOUNCEMENT][HEADER]VERSION CHECK[BODY]Due to the migration process the v-check does not work...[PRIORITY]3[LINK]https://enoughindustries.com/[VERSION]1.7.0.0
+[ANNOUNCEMENT][HEADER]UPDATE 1.8[BODY]Download the newest version of NebulaInjector today![PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.8.0.0/NebulaInjector.exe[VERSION]1.7.0.0
