@@ -4,4 +4,4 @@
 [ANNOUNCEMENT][HEADER]UPDATE 1.8[BODY]Download the newest version of NebulaInjector today![PRIORITY]6[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.8.0.0/NebulaInjector.exe[VERSION]1.6.0.0
 [ANNOUNCEMENT][HEADER]Contributions[BODY]Star the repository on Github <3[PRIORITY]3[LINK]https://github.com/sojournercntl/NebulaInjector[VERSION]1.7.0.0
 [ANNOUNCEMENT][HEADER]VERSION CHECK[BODY]Due to the migration process the v-check does not work...[PRIORITY]3[LINK]https://enoughindustries.com/[VERSION]1.7.0.0
-[ANNOUNCEMENT][HEADER]Update 1.8[BODY]Download the newest version of Nebula...[PRIORITY]8[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.8.0.0/NebulaInjector.exe[VERSION]1.8.0.0
+[ANNOUNCEMENT][HEADER]Update 1.8[BODY]Download the newest version of Nebula...[PRIORITY]8[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.8.0.0/NebulaInjector.exe[VERSION]1.7.0.0
