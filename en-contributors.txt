@@ -3,5 +3,6 @@
 [CONTRIBUTOR]@jetji[TITLE]tutorials[URL]https://enoughindustries.com/index.php[/]
 [CONTRIBUTOR]@Gopnik[TITLE]community help[URL]https://enoughindustries.com/index.php[/]
 [CONTRIBUTOR]@IceModz[TITLE]donator <3[URL]https://enoughindustries.com/index.php[/]
+[CONTRIBUTOR]@KevinVE[TITLE]donator <3[URL]https://enoughindustries.com/index.php[/]
 [CONTRIBUTOR]@Wica[TITLE]donator <3[URL]https://enoughindustries.com/index.php[/]
 [CONTRIBUTOR]@nkvelioglu[TITLE]bugfinder[URL]https://enoughindustries.com/index.php[/]
