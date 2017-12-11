@@ -37,11 +37,18 @@ This file contains the last know checksum of enoughs.dll. This way we can ensure
 [ANNOUNCEMENT][HEADER]Title[BODY]Text[PRIORITY]3[LINK]Link to open[VERSION]1.0.0.0
 ```
 This file contains the announcements shown in the menu. Announcements need an priority and an link + version number.
+
 #### en-nebulaversion.txt
 ```
 [CURRENTVERSION][VERSION]1.4.0.0[DOWNLOAD]https://github.com/sojournercntl/NebulaInjector/releases/download/1.4.0.0/NebulaInjector.exe
 ```
 This is the version file for the injector. It contains the newest version number and a download link to send the user to. 
+
+#### en-startup.txt
+```
+DONATE/MAINTENANCE/NOTHING
+```
+This is the startup file for the injector. It contains one command that will be executed at the application startup.
 
 ## Important
 Do not make blank lines into any of these files. The files have to be in the correct scheme to work. 
