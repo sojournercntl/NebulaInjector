@@ -53,7 +53,5 @@ NebulaInjector has been developed and designed by **Sojournercntl**.
     @Jetji - Making out amazing Tutorial videos 
     @Seurgeon - Testing and Ressource strings
    
-##### Donators
-    Its pretty empty here :( be the first :)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3HGSEC73JKEGS)
