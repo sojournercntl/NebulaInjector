@@ -6,3 +6,4 @@
 [ANNOUNCEMENT][HEADER]VERSION CHECK[BODY]Due to the migration process the v-check does not work...[PRIORITY]3[LINK]https://enoughindustries.com/[VERSION]1.7.0.0
 [ANNOUNCEMENT][HEADER]Important Update[BODY]Update to NebulaInjector 1.9.0.0 before the GTA update![PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.7.0.0
 [ANNOUNCEMENT][HEADER]Important Update[BODY]Update to NebulaInjector 1.9.0.0 before the GTA update![PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.8.0.0
+[ANNOUNCEMENT][HEADER]Doomsday Heist[BODY]Maintenance will start soon. Please stand by.[PRIORITY]6[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
