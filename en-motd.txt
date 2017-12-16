@@ -7,5 +7,5 @@
 [ANNOUNCEMENT][HEADER]Important Update[BODY]Update to NebulaInjector 1.9.0.0 before the GTA update![PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.7.0.0
 [ANNOUNCEMENT][HEADER]Important Update[BODY]Update to NebulaInjector 1.9.0.0 before the GTA update![PRIORITY]9[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.8.0.0
 [ANNOUNCEMENT][HEADER]Doomsday Heist[BODY]Maintenance will start soon. Please stand by.[PRIORITY]6[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
-[ANNOUNCEMENT][HEADER]Maintenance[BODY]Maintenance is over. Please stand by enoughs menu updates.[PRIORITY]6[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
-[ANNOUNCEMENT][HEADER]Donation[BODY]Thank you Giuseppe for your donation! Contact sojournercntl on Discord![PRIORITY]6[LINK]https://discord.gg/KSfEM3r[VERSION]1.9.0.0
+[ANNOUNCEMENT][HEADER]Maintenance[BODY]Maintenance is over. Please stand by enoughs menu updates.[PRIORITY]3[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
+[ANNOUNCEMENT][HEADER]Welcome[BODY]Welcome to Nebula 1.9[PRIORITY]3[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
