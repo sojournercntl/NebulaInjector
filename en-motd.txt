@@ -9,3 +9,4 @@
 [ANNOUNCEMENT][HEADER]Doomsday Heist[BODY]Maintenance will start soon. Please stand by.[PRIORITY]6[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
 [ANNOUNCEMENT][HEADER]Maintenance[BODY]Maintenance is over. Please stand by enoughs menu updates.[PRIORITY]3[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
 [ANNOUNCEMENT][HEADER]Welcome[BODY]Welcome to Nebula 1.9[PRIORITY]3[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
+[ANNOUNCEMENT][HEADER]Happy Holiday[BODY]Have a great X-mas all together![PRIORITY]9[LINK]http://steamcommunity.com/id/scntl/[VERSION]1.9.0.0
