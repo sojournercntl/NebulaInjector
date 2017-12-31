@@ -11,3 +11,5 @@
 [ANNOUNCEMENT][HEADER]Welcome[BODY]Welcome to Nebula 1.9[PRIORITY]3[LINK]https://github.com/sojournercntl/NebulaInjector/releases/download/1.9.0.0/NebulaInjector.exe[VERSION]1.9.0.0
 [ANNOUNCEMENT][HEADER]Happy Holiday[BODY]Have a great X-mas all together![PRIORITY]9[LINK]http://steamcommunity.com/id/scntl/[VERSION]1.9.0.0
 [ANNOUNCEMENT][HEADER]Support Discord[BODY]Having problems with the injector? Join in![PRIORITY]3[LINK]https://discord.gg/KSfEM3r[VERSION]1.9.0.0
+[ANNOUNCEMENT][HEADER]Testing[BODY]Public tests are performed withing the next hours and days.[PRIORITY]6[LINK]https://discord.gg/KSfEM3r[VERSION]1.9.0.0
+[ANNOUNCEMENT][HEADER]Happy new year![BODY]We hope you all had a great year and are prepared for the next one :P[PRIORITY]3[LINK]https://discord.gg/KSfEM3r[VERSION]1.9.0.0
