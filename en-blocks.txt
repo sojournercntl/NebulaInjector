@@ -1,2 +1,1 @@
-[BANNEDUSER][IDENTIFICATION]58A0-5EF3-E486-A9AE-239F-DE81-D724-74A1[REASON]Scammer! Legal action will be taken against you Dennis Fusha! You tried to resell software which stands under an NDA. You also acted against our TOS.
-[BANNEDUSER][IDENTIFICATION]23A1-AB33-FC11-5432-7585-3279-27D7-2272[REASON]Scammer! Legal action will be taken against you Dennis Fusha! You tried to resell software which stands under an NDA. You also acted against our TOS.
+[BANNEDUSER][IDENTIFICATION]23A1-AB33-FC11-5432-7585-3279-27D7-2272[REASON]Scammer! Test!
