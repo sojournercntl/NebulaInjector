@@ -14,3 +14,4 @@
 [ANNOUNCEMENT][HEADER]Testing[BODY]Public tests are performed withing the next hours and days.[PRIORITY]6[LINK]https://discord.gg/KSfEM3r[VERSION]1.9.0.0
 [ANNOUNCEMENT][HEADER]Happy new year![BODY]We hope you all had a great year and are prepared for the next one :P[PRIORITY]3[LINK]https://discord.gg/KSfEM3r[VERSION]1.9.0.0
 [ANNOUNCEMENT][HEADER]Version 2.0[BODY]Version 2.0 is currently in Production and will feature advanced injection features. And SAaS.[PRIORITY]3[LINK]https://discord.gg/KSfEM3r[VERSION]1.9.0.0
+[ANNOUNCEMENT][HEADER]IMPORTANT INFORMATION[BODY]Nebula Support Server got taken down. Join the new one.[PRIORITY]9[LINK]https://discord.gg/SFWY2Ka[VERSION]1.9.0.0
